@@ -7,7 +7,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      description: "alex.chen@email.com",
+      description: "neha.neha@gmail.com",
       action: "Send Email"
     },
     {

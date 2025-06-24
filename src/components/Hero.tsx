@@ -27,7 +27,7 @@ const Hero = () => {
           {/* Subtitle */}
           <div className="animate-fade-in-up" style={{ animationDelay: '0.2s', animationFillMode: 'both' }}>
             <p className="text-2xl md:text-3xl font-light text-gray-600 mb-4 font-space">
-              UX Designer
+              Web Designer
             </p>
             <p className="text-lg md:text-xl text-gray-500 mb-12 max-w-2xl mx-auto leading-relaxed">
               Crafting beautiful digital experiences that blend functionality with aesthetic excellence. 
