@@ -43,7 +43,7 @@ const About = () => {
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
               I'm passionate about creating digital experiences that make a difference. 
-              With 5+ years in UX design, I bridge the gap between user needs and business goals.
+              With 2+ years in Web design, I bridge the gap between user needs and business goals.
             </p>
           </div>
 
